@@ -1,0 +1,50 @@
+{
+    // V.1
+    // User Interface
+    "window.zoomLevel": 0.5,
+    "workbench.colorTheme":"Visual Studio Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "window.commandCenter": false,
+    "workbench.colorCustomizations": {
+        
+    },
+    
+    // Code Editor
+    "breadcrumbs.enabled": false,
+    "explorer.compactFolders": false,
+    "editor.lineHeight": 2,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.matchBrackets": "always",
+    "editor.renderLineHighlight": "none",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.showFoldingControls": "never",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "Dank Mono",
+    "editor.fontSize": 14,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "extensions.ignoreRecommendations": true,
+
+
+
+    "window.titleBarStyle": "custom",
+    "apc.electron": {
+        "titleBarStyle": "hidden"
+    },
+    "apc.activityBar": {
+        "position": "bottom",
+        "itemMargin": 4,
+        "size": 40,
+        "itemSize": 40
+    }
+    
+}
