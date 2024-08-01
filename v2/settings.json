@@ -1,0 +1,85 @@
+{
+    // User Interface
+    "window.zoomLevel": 0.5,
+    "workbench.colorTheme": "FireFly Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": false,
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "window.commandCenter": false,
+    
+    "workbench.colorCustomizations": {
+        // Editor
+        "editorLineNumber.activeForeground": "#DAD3BE",
+        "editorLineNumber.foreground": "#254336",
+        "editor.background": "#0a0f17",
+        "editor.foreground": "#fdfefe",
+
+        // Title Bar
+        "titleBar.activeBackground": "#0a0f17",
+
+        // Sidebar
+        "sideBar.background": "#0a0f17",
+        "sideBarSectionHeader.background": "#677D6A",
+
+        // Tabs
+        "tab.activeBackground": "#1A3636",
+        "tab.activeForeground": "#fdfefe",
+        "tab.inactiveBackground": "#0a0f17",
+        "tab.inactiveForeground": "#7a7977",
+
+        // Activity Bar
+        "activityBar.background": "#0a0f17", 
+
+        // Buttons
+        "button.background": "#D6BD98", 
+
+        // Status Bar
+        "statusBar.background": "#1A3636",
+        "statusBar.foreground": "#fdfefe",
+
+        // Terminal
+        "terminal.background": "#06080d",
+
+        
+        // Terminal Panel
+        "panel.background": "#0a0f17",
+        "panelTitle.activeBorder": "#40534C",
+        "panelTitle.activeForeground": "#fdfefe",
+        "panelTitle.inactiveForeground": "#7a7977"
+    },
+    
+    // Code Editor
+    "breadcrumbs.enabled": false,
+    "explorer.compactFolders": false,
+    "editor.lineHeight": 2.2,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.matchBrackets": "always",
+    "editor.renderLineHighlight": "none",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    // "editor.showFoldingControls": "never",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "off",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": false,
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "extensions.ignoreRecommendations": true,
+    "editor.lineNumbers": "on",
+
+    // Window and Misc
+    "window.titleBarStyle": "custom",
+    "apc.electron": {
+        "titleBarStyle": "hidden"
+    },
+    "outline.collapseItems": "alwaysCollapse",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}
